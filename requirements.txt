@@ -5,5 +5,5 @@ Keras==2.2.4
 numpy==1.18.1
 opencv-python==4.2.0.34
 sklearn==0.0
-tensorflow==2.1.0
+tensorflow==2.7.2
 keras-facenet==0.3.2
